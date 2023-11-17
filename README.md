@@ -1,3 +1,3 @@
 # Databases
 This project entails a car dealership with a Graphical user interface. 
-It was implemented using SQL queries as well as Java.
+It was implemented using SQL queries, PHP but mostly Java.
